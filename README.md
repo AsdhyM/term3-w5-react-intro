@@ -73,3 +73,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## FEB24 T3W5   Tuesday
 
+Create React App this week to learn classic ReactJS
+
+ViteJS React template next week, to learn modern ReactJS
